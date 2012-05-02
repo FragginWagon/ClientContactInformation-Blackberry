@@ -1,0 +1,21 @@
+MIDlet-Name: ClientContactInformation
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: BlackBerry Developer
+MIDlet-Jar-URL: ClientContactInformation.jar
+MIDlet-Jar-Size: 150487
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: ,img/iconz.png,
+RIM-MIDlet-Icon-Count-1: 1
+RIM-MIDlet-Flags-1: 0
+Manifest-Version: 1.0
+RIM-COD-URL: ClientContactInformation.cod
+RIM-COD-Size: 15608
+RIM-COD-Creation-Time: 1335857723
+RIM-COD-Module-Name: ClientContactInformation
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_database
+RIM-COD-SHA1: 20 8d d8 72 8a 93 fe bf d4 7e 6b 1e 3e 41 17 6e 57 95 81 67
+RIM-COD-URL-1: ClientContactInformation-1.cod
+RIM-COD-Size-1: 57176
+RIM-COD-SHA1-1: 11 70 3c 39 c1 f7 ea 07 47 74 d7 92 b5 0d 05 22 27 08 98 2a
+RIM-MIDlet-Icon-1-1: img/iconz - Copy.png,focused
